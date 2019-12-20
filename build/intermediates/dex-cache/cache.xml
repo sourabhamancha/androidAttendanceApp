@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\f56a6f5565d8867a8f8d8f1cc921dc15de3e6cf6\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_51c91f2bb3f75c8ebe7fe12c8166601ba2fe3f45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\2880c3bdf2ed11d5915ddfcfede5df957c336955\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1880fafdbf73adfa71e4e1d36b11766a486e81d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\c3714847a5f768ab95aa613f107b50d4c2df8178\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_5ece32cac472444cae4666f94150daecd335ff63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\27b6cf60d53cf3bb4ee9dcab20e1437bbb720c32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_d71b24a3b43a0301a091744ca31bb27986565003.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\8402f99914574e6138bdb364a3825cf7eafb9283\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19197c52113c085657ce8d9f9a918ae1ab53c8b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\8402f99914574e6138bdb364a3825cf7eafb9283\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_19197c52113c085657ce8d9f9a918ae1ab53c8b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\2880c3bdf2ed11d5915ddfcfede5df957c336955\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_a1880fafdbf73adfa71e4e1d36b11766a486e81d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\18236e832d59c743bdf7d342bb9a4d1c2de7b7d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_763f61bbab6a31d37c541aa5712b12688d2ced0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\f56a6f5565d8867a8f8d8f1cc921dc15de3e6cf6\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_51c91f2bb3f75c8ebe7fe12c8166601ba2fe3f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\18236e832d59c743bdf7d342bb9a4d1c2de7b7d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_763f61bbab6a31d37c541aa5712b12688d2ced0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_574e565d19d8520c6d9ed09deb6b729f9044ceb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\f56a6f5565d8867a8f8d8f1cc921dc15de3e6cf6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_f9520c71dbc03d244d953b5f84ca8d30d0abe694.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_574e565d19d8520c6d9ed09deb6b729f9044ceb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\f56a6f5565d8867a8f8d8f1cc921dc15de3e6cf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9520c71dbc03d244d953b5f84ca8d30d0abe694\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_48dd1dd011ca553a942ec563aa287589d7df4b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\c3714847a5f768ab95aa613f107b50d4c2df8178\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ece32cac472444cae4666f94150daecd335ff63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\e250f3e5e907e68be3ad87f570514208261b98f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b08138733e34e0d98abdd66692d1a2061877964\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\e250f3e5e907e68be3ad87f570514208261b98f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_4b08138733e34e0d98abdd66692d1a2061877964.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\945ea09275c79c98f3393ecfd7c17daff81c73a5\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_daecfce840d7c6c2fac230734d8b9a7e20831865\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\87fdf2ec0f730fabfc5c96fad4fb58a297bb658b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_514f3fdfb63d9640102116fc8c37fc69742edfd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\945ea09275c79c98f3393ecfd7c17daff81c73a5\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_daecfce840d7c6c2fac230734d8b9a7e20831865.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\27b6cf60d53cf3bb4ee9dcab20e1437bbb720c32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d71b24a3b43a0301a091744ca31bb27986565003\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\945ea09275c79c98f3393ecfd7c17daff81c73a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_d43cb8075adf6b62ff5a51c2836bb876faf9f306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\87fdf2ec0f730fabfc5c96fad4fb58a297bb658b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_514f3fdfb63d9640102116fc8c37fc69742edfd5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\ce52afc95de1ec419a5846c2c25bbae7d800303b\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3aea1311c9253c5fa9b93202f4381c1404aaf02d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\945ea09275c79c98f3393ecfd7c17daff81c73a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d43cb8075adf6b62ff5a51c2836bb876faf9f306\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\21cef14ce25b6b0b462da2a46e5fed7b5b4b8269\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_a19cd4ff1680f06a8e15e0a171818d268ebbeae6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\ce52afc95de1ec419a5846c2c25bbae7d800303b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9295a84a8635a491aaef3ba3fe1c0ef31806f3a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\21cef14ce25b6b0b462da2a46e5fed7b5b4b8269\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a19cd4ff1680f06a8e15e0a171818d268ebbeae6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\21cef14ce25b6b0b462da2a46e5fed7b5b4b8269\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_329470a9fce5ed5359bfe6469cfd89e80e36cb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\18236e832d59c743bdf7d342bb9a4d1c2de7b7d2\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_12f05dba8412aa89331effa54f34fa40fea158c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\ce52afc95de1ec419a5846c2c25bbae7d800303b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\classes_9295a84a8635a491aaef3ba3fe1c0ef31806f3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\ce52afc95de1ec419a5846c2c25bbae7d800303b\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_3aea1311c9253c5fa9b93202f4381c1404aaf02d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f93630758715877185b81984798d667512b30003">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4fbe17b318a2d87adf6f823c35927f86609365a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\21cef14ce25b6b0b462da2a46e5fed7b5b4b8269\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_329470a9fce5ed5359bfe6469cfd89e80e36cb44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sourabh Amancha\.android\build-cache\18236e832d59c743bdf7d342bb9a4d1c2de7b7d2\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Sourabh Amancha\Documents\Project\AndroidTeachers-master\AndroidTeachers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_12f05dba8412aa89331effa54f34fa40fea158c9\classes.dex" />
+    </item>
+
+</items>
