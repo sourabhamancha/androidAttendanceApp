@@ -1,5 +1,5 @@
 # androidAttendanceApp
-The aim of the project is to create an Android mobileapplication for attendance system that can be used by all teachers for their respective courses. This application fetches the details of the courses allotted to the respective faculty and the student enrolled in the courses from the server using the internet connection and stores it in the mobile database. 
+The aim of the project is to create an Android mobile application for attendance system that can be used by all teachers for their respective courses. This application fetches the details of the courses allotted to the respective faculty and the student enrolled in the courses from the server using the internet connection and stores it in the mobile database. 
 
 This application stores the attendance in the mobile internal database and the faculty can view and update the attendance whenever required. At the end of the month, when the faculty is needed to upload the attendance, they can directly upload it from their mobile in the server provided the internet connection is available. This application uses Android application development toolkit.
 
